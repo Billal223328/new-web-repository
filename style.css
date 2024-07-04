@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(bird.jpg);
+
+}
+img{
+    
+}
+.text{
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+}
+.para{
+    text-align: center;
+    color: bisque;
+    margin-top: 50px;
+}
+.btn{
+    width: 200px;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 20px;
+    color: azure;
+    transition: color .5s;
+}
+.btn:hover{
+    color:chartreuse;
+}
+.button{
+    padding-left: 700px;
+    margin-top: 20px;
+    
+}
